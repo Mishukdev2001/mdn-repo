@@ -1,6 +1,7 @@
 /* header related style */
 .header-file {
     display: flex;
+    margin: 20px 50px;
 }
 
 .information {
@@ -25,6 +26,18 @@ margin: 20px 50px;
 }
 .second{
 
+}
+.hading{
+    text-align: center;
+    font-size: 40px;
+}
+.all-skills{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 600px;
+}
+.skills{
+    font-size: 30px;
 }
 .third{
 
