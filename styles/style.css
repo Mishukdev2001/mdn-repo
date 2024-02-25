@@ -12,3 +12,20 @@
 /* btn-primary{
     padding: 20px 10px;
 } */
+
+/*main related style  */
+.first{
+display: flex;
+background-color: rgb(255, 249, 196);
+margin: 20px 50px;
+}
+.informations{
+    margin: auto;
+    font-size: 30px;
+}
+.second{
+
+}
+.third{
+
+}
