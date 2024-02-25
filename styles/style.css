@@ -1,0 +1,14 @@
+/* header related style */
+.header-file {
+    display: flex;
+}
+
+.information {
+    text-align:right ;
+    margin: auto;
+    font-size: 30px;
+
+}
+/* btn-primary{
+    padding: 20px 10px;
+} */
